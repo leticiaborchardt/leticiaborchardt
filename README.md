@@ -1,5 +1,5 @@
 <h1 align="center">✨Hi there!, I'm Letícia✨</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Front-end Developer</h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Ap Coders Project
@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://github.com/alaniscibele/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alanis Cibele's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alaniscibele&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Letícia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alaniscibele&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   <br/>
