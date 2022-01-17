@@ -1,5 +1,4 @@
 <h1 align="center">✨Hi there! I'm Letícia✨</h1>
-<h3 align="center">A Front-end Developer</h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Ap Coders Project
