@@ -1,6 +1,6 @@
 <h1 align="center">✨Hi there! I'm Letícia✨</h1>
 
-## 🙋‍♂️ About Me
+##👧🏼 About Me
 - 🔭 I’m currently working on Ap Coders Project
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me: leticiaborchardt123@gmail.com
