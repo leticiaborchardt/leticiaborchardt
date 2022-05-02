@@ -1,8 +1,7 @@
 <h1 align="center">✨Hi there! I'm Letícia✨</h1>
 
 ## 👧🏼 About Me
-- 🔭 I’m currently working on Ap Coders challenge
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: leticiaborchardt123@gmail.com
 
 <br/>
