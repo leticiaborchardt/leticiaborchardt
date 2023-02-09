@@ -1,8 +1,7 @@
 <h2 align="center">✨Hi there!✨</h2>
 <h3 align="center">I’m a Front-end Developer</h3>
 
-- 📫 How to reach me: leticiaborchardt123@gmail.com  :muscle:
-
+- 📫 How to reach me: leticiaborchardt123@gmail.com
 <br/>
 
 ## 🚀 Languages and Tools:
