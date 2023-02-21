@@ -1,7 +1,10 @@
-<h2 align="center">✨Hi there!✨</h2>
-<h3 align="center">I’m a Front-end Developer</h3>
+<h2>Hi, I'm Letícia</h2>
 
-- 📫 How to reach me: leticiaborchardt123@gmail.com
+- 🔥 Júnior Developer, passionate about frontend
+
+- 🔭 I’m currently learning React
+
+- 📫 leticiaborchardt123@gmail.com
 <br/>
 
 ## 🚀 Languages and Tools:
