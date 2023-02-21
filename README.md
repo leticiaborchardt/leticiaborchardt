@@ -4,7 +4,6 @@
 
 - 🔭 Just sharing my little projetcs / studies :)
 
-- 📫 leticiaborchardt123@gmail.com
 <br/>
 
 <div align='center'>
