@@ -2,7 +2,7 @@
 
 - 🔥 Júnior Developer, passionate about frontend
 
-- 🔭 Just sharing my projetcs / studies :)
+- 🔭 Just sharing my projetcs / studies
 
 <br/>
 
