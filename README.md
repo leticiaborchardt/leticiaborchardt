@@ -1,9 +1,5 @@
  <h2 align='center'>Hi, I'm Letícia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-- 🔥 Júnior Developer, passionate about frontend
-
-- 🔭 Just sharing my projetcs / studies
-
 <br/>
 
 <div align='center'>
