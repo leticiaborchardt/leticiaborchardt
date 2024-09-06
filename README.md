@@ -3,4 +3,4 @@
 Sou desenvolvedora e estudante universitária de Engenharia de Software, aqui compartilho alguns estudos e projetos
  
 ## <img src="https://github.com/leticiaborchardt/leticiaborchardt/blob/main/icons/Rocket.png" height="30" /> **Linguagens e ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,postgres,js,ts,react,next,nodejs,bootstrap,tailwind,sass,gulp)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,mysql,postgres,js,ts,angular,react,nodejs,html,css,bootstrap,tailwind,scss)](#)
